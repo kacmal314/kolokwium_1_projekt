@@ -41,5 +41,5 @@ def StrumienObjetosci():
 
   return strumien
 
-print(f'Predkosc wyplywu v = {PredkoscWyplywu():{0}.{dokladnosc}}')
-print(f'Strumien objetosci V = {StrumienObjetosci():{0}.{dokladnosc}}')
+print(f'Predkosc wyplywu v = {PredkoscWyplywu():{0}.{dokladnosc}} m/s')
+print(f'Strumien objetosci V = {StrumienObjetosci():{0}.{dokladnosc}} m^3 / s')
